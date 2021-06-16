@@ -1,3 +1,5 @@
 /playground/*
-!.gitignore
-!.gitkeep
+!/playground/.gitignore
+!/playground/updates
+/playground/updates/*
+!/playground/updates/.gitignore
